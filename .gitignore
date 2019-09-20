@@ -3,3 +3,4 @@
 .idea/
 .DS_Store
 transfer/data/*
+transfer/models/*
