@@ -19,3 +19,6 @@ available from:
 
 [Tenders Electronic Daily (TED) (csv subset) – public procurement notices](https://data.europa.eu/euodp/en/data/dataset/ted-csv/resource/97e5f4bf-aae4-4570-b8cb-4c0c4284daba)
 
+[International Stroke Trial database (version 2)](https://datashare.is.ed.ac.uk/handle/10283/128)
+
+[WHO ARI Multicentre Study of clinical signs and etiologic agents (and other data)](http://biostat.mc.vanderbilt.edu/wiki/Main/DataSets)
